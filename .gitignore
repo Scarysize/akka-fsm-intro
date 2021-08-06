@@ -1,0 +1,16 @@
+target/
+out/
+boot/
+lib_managed/
+src_managed/
+project/plugins/project/
+src/twirl-gen/
+.idea/
+.bsp/
+*.log
+tracking-log.json
+jvm-deploy-blueprint/
+.editorconfig
+javaagent
+.archive/*
+.vscode
